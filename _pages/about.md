@@ -27,7 +27,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Marie Skłodowska-Curie Postdoctoral Fellow in the Department of Civil, Environmental and Geomatic Engineering at University College London (UCL), working with Professor Carmine Galasso.
+
+My research focuses on natural hazard risk and resilience in a changing climate, with particular interests in rainfall-induced landslides, multi-hazard interactions, probabilistic risk assessment, and transport infrastructure resilience.
+
+Prior to joining UCL, I worked as a Postdoctoral Research Associate at the University of Hong Kong. I received my PhD in Geological Resources and Geological Engineering from Tongji University in 2025 and was a visiting PhD researcher at Waseda University, Japan, from 2022 to 2024.
+
+## Research Interests
+
+- Climate change impacts on natural hazards
+- Rainfall-induced landslides and slope stability
+- Stochastic modelling of non-stationary rainfall
+- Vegetation–soil–water interactions
+- Multi-hazard risk and fragility assessment
+- Transport infrastructure risk and resilience
+
+I welcome opportunities for research collaboration and academic exchange.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
