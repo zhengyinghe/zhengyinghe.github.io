@@ -1,16 +1,15 @@
 
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: Marie Skłodowska-Curie Postdoctoral Fellow at <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>
+subtitle: "Marie Skłodowska-Curie Postdoctoral Fellow at University College London"
 
 profile:
   align: right
   image: Zhengying.jpg
   image_circular: false
   more_info: >
-    <p>Department of Civil, Environmental and Geomatic Engineering</p>
     <p>University College London</p>
     <p>London, United Kingdom</p>
 
@@ -19,13 +18,9 @@ social: false
 
 announcements:
   enabled: false
-  scrollable: true
-  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
 ---
 
 I am a Marie Skłodowska-Curie Postdoctoral Fellow in the Department of Civil, Environmental and Geomatic Engineering at University College London (UCL), working with Professor Carmine Galasso.
@@ -42,5 +37,3 @@ Prior to joining UCL, I worked as a Research Associate (Postdoctoral Researcher)
 - Vegetation–soil–water interactions
 - Multi-hazard risk and fragility assessment
 - Transport infrastructure risk and resilience
-
-I welcome opportunities for research collaboration and academic exchange.
