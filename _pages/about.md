@@ -1,8 +1,7 @@
-
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: "Marie Skłodowska-Curie Postdoctoral Fellow at University College London"
 
 profile:
