@@ -13,7 +13,7 @@ profile:
     <p>London, United Kingdom</p>
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false
