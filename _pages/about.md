@@ -18,7 +18,7 @@ social: true
 announcements:
   enabled: true
   scrollable: false
-  limit: 5
+  limit: 3
 
 latest_posts:
   enabled: false
@@ -32,9 +32,7 @@ Prior to joining UCL, I worked as a Research Associate (Postdoctoral Researcher)
 
 ## Research Interests
 
-- Climate change impacts on natural hazards
-- Rainfall-induced landslides and slope stability
-- Stochastic modelling of non-stationary rainfall
-- Vegetation–soil–water interactions
-- Multi-hazard risk and fragility assessment
-- Transport infrastructure risk and resilience
+- Climate change and rainfall hazards
+- Landslide mechanics and risk
+- Multi-hazard risk assessment
+- Infrastructure risk and resilience
