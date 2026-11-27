@@ -38,3 +38,15 @@ body .profile .academic-profile-social .contact-icons { display: flex; justify-c
 body .profile .academic-profile-social .contact-icons a { color: var(--academic-accent) !important; font-size: 24px !important; margin: 0 !important; }
 body .profile .academic-profile-social .contact-icons i { font-size: 24px !important; }
 body .profile .academic-profile-social .contact-note { font-size: 12px; line-height: 1.4; margin-top: 8px; }
+
+/* Homepage: hide redundant affiliation beneath the portrait; retain social links. */
+body .profile .more-info { display: none !important; }
+/* Justify prose only, not publication metadata, news, or profile captions. */
+body .post article > p, body .post article > .clearfix > p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+@media (max-width: 575px) {
+  body .post article > p, body .post article > .clearfix > p { text-align: left; }
+}
