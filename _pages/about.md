@@ -12,7 +12,7 @@ profile:
     <p>University College London</p>
     <p>London, United Kingdom</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
