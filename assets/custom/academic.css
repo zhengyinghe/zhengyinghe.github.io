@@ -45,8 +45,33 @@ body .profile .more-info { display: none !important; }
 body .post article > p, body .post article > .clearfix > p {
   text-align: justify;
   text-justify: inter-word;
-  hyphens: auto;
+  hyphens: none;
 }
 @media (max-width: 575px) {
   body .post article > p, body .post article > .clearfix > p { text-align: left; }
+}
+
+/* Final homepage and news refinements. */
+@media (min-width: 768px) {
+  body .profile.float-right, body .profile.float-end, body .profile { margin-left: 32px !important; }
+  body .news table th:first-child, body .news table td:first-child { width: 120px !important; min-width: 120px; max-width: 120px; }
+}
+body .profile .academic-profile-social .contact-note { display: none !important; }
+body .profile .academic-profile-social .contact-icons { gap: 14px; }
+body .profile .academic-profile-social .contact-icons a, body .profile .academic-profile-social .contact-icons a i, body .profile .academic-profile-social .contact-icons a svg { color: var(--academic-accent) !important; font-size: 24px !important; }
+body .news table { width: 100%; table-layout: auto; }
+body .news table th:first-child, body .news table td:first-child { color: var(--academic-accent) !important; font-weight: 600 !important; white-space: nowrap; font-size: 14px; }
+body .news table th, body .news table td { padding: 12px 0 !important; vertical-align: top; border-bottom: 1px solid var(--global-divider-color, #e5e7eb); }
+body .news table td + td, body .news table th + td { padding-left: 20px !important; }
+body .news table tr:last-child > * { border-bottom: 0; }
+body .news { margin-top: 12px; }
+body .publications .bibliography { padding-left: 0 !important; }
+body .publications .bibliography li .row:has(> .abbr) { margin-inline: 0 !important; }
+body .publications .bibliography li { margin-bottom: 24px; }
+body .post article > .clearfix > ul { padding-left: 1.4rem; }
+body .post article > p, body .post article > .clearfix > p { margin-bottom: 1rem; }
+@media (max-width: 575px) {
+  body .news table th:first-child, body .news table td:first-child { width: 85px !important; font-size: 12px; }
+  body .news table td + td, body .news table th + td { padding-left: 12px !important; }
+  body .profile { margin-left: 0 !important; }
 }
