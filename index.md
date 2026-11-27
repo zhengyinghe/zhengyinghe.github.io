@@ -1,26 +1,26 @@
-
 ---
+
 layout: about
 title: about
 permalink: /
 subtitle: "Marie Skłodowska-Curie Postdoctoral Fellow at University College London"
 
 profile:
-  align: right
-  image: Zhengying.jpg
-  image_circular: false
-  more_info: >
-    <p>University College London</p>
-    <p>London, United Kingdom</p>
+align: right
+image: Zhengying.jpg
+image_circular: false
+more_info: >
+<p>University College London</p>
+<p>London, United Kingdom</p>
 
 selected_papers: false
 social: false
 
 announcements:
-  enabled: false
+enabled: false
 
 latest_posts:
-  enabled: false
+enabled: false
 ---
 
 I am a Marie Skłodowska-Curie Postdoctoral Fellow in the Department of Civil, Environmental and Geomatic Engineering at University College London (UCL), working with Professor Carmine Galasso.
